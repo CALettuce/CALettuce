@@ -3,7 +3,7 @@
 
 <img align="right" alt="" width="400" src="https://steamuserimages-a.akamaihd.net/ugc/776155680302750635/190CE4C6954A35BD33671BB37259F3D1D67700B8/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=clettuce&label=Profile%20views&color=0e75b6&style=flat" alt="clettuce" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=calettuce&label=Profile%20views&color=0e75b6&style=flat" alt="calettuce" /> </p>
 
 - 📫 How to reach me **carlos.rodlopez86@gmail.com**
 
@@ -68,8 +68,8 @@
   </a> 
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=clettuce&show_icons=true&locale=en&layout=compact" alt="clettuce" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=calettuce&show_icons=true&locale=en&layout=compact" alt="calettuce" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=clettuce&show_icons=true&locale=en" alt="clettuce" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=calettuce&show_icons=true&locale=en" alt="calettuce" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=clettuce&" alt="clettuce" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=calettuce&" alt="calettuce" /></p>
